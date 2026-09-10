@@ -1,0 +1,110 @@
+{
+  "PlayerData": [],
+  "ClubData": [
+    {
+      "ID": 1,
+      "Name": "CFR 1907 Cluj",
+      "ShortName": "CFR",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=cfr1907.ro&sz=256"
+    },
+    {
+      "ID": 2,
+      "Name": "FCSB",
+      "ShortName": "FCSB",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=fcsb.ro&sz=256"
+    },
+    {
+      "ID": 3,
+      "Name": "Universitatea Craiova",
+      "ShortName": "UCV",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=ucv1948.ro&sz=256"
+    },
+    {
+      "ID": 4,
+      "Name": "Farul Constanța",
+      "ShortName": "FAR",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=farulconstanta.com&sz=256"
+    },
+    {
+      "ID": 5,
+      "Name": "Rapid București",
+      "ShortName": "RAP",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=fcrapid.ro&sz=256"
+    },
+    {
+      "ID": 6,
+      "Name": "Sepsi OSK",
+      "ShortName": "SEPSI",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=sepsiosk.ro&sz=256"
+    },
+    {
+      "ID": 7,
+      "Name": "FC Voluntari",
+      "ShortName": "VOL",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=fcvoluntari.ro&sz=256"
+    },
+    {
+      "ID": 8,
+      "Name": "Universitatea Cluj",
+      "ShortName": "UCL",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=fcucluj.ro&sz=256"
+    },
+    {
+      "ID": 9,
+      "Name": "Petrolul Ploiești",
+      "ShortName": "PET",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=fcpetrolul.ro&sz=256"
+    },
+    {
+      "ID": 10,
+      "Name": "FC Argeș",
+      "ShortName": "ARG",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=argesfc.ro&sz=256"
+    },
+    {
+      "ID": 11,
+      "Name": "UTA Arad",
+      "ShortName": "UTA",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=uta-arad.ro&sz=256"
+    },
+    {
+      "ID": 12,
+      "Name": "FC Botoșani",
+      "ShortName": "BOT",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=fcbotosani.ro&sz=256"
+    },
+    {
+      "ID": 13,
+      "Name": "Hermannstadt",
+      "ShortName": "HER",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=fchermannstadt.ro&sz=256"
+    },
+    {
+      "ID": 14,
+      "Name": "Chindia Târgoviște",
+      "ShortName": "CHI",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=chindiatargoviste.ro&sz=256"
+    },
+    {
+      "ID": 15,
+      "Name": "CS Mioveni",
+      "ShortName": "MIO",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=csmioveni.ro&sz=256"
+    },
+    {
+      "ID": 16,
+      "Name": "FCU Craiova 1948",
+      "ShortName": "FCU",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=fcucraiova.ro&sz=256"
+    }
+  ],
+  "LeagueData": [
+    {
+      "ID": 28,
+      "Name": "Liga 1 România 2022",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=superliga.ro&sz=256"
+    }
+  ],
+  "CupData": [],
+  "StadiumData": []
+}
