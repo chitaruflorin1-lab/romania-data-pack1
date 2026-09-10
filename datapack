@@ -1,0 +1,246 @@
+{
+  "PlayerData": [],
+  "ClubData": [
+    {
+      "ID": 1,
+      "Name": "FCSB",
+      "ShortName": "FCSB",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=fcsb.ro&sz=256"
+    },
+    {
+      "ID": 2,
+      "Name": "CFR 1907 Cluj",
+      "ShortName": "CFR",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=cfr1907.ro&sz=256"
+    },
+    {
+      "ID": 3,
+      "Name": "Universitatea Craiova",
+      "ShortName": "UCV",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=ucv1948.ro&sz=256"
+    },
+    {
+      "ID": 4,
+      "Name": "Farul Constanța",
+      "ShortName": "FAR",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=farulconstanta.com&sz=256"
+    },
+    {
+      "ID": 5,
+      "Name": "Sepsi OSK",
+      "ShortName": "SEPSI",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=sepsiosk.ro&sz=256"
+    },
+    {
+      "ID": 6,
+      "Name": "Rapid București",
+      "ShortName": "RAP",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=fcrapid.ro&sz=256"
+    },
+    {
+      "ID": 7,
+      "Name": "UTA Arad",
+      "ShortName": "UTA",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=uta-arad.ro&sz=256"
+    },
+    {
+      "ID": 8,
+      "Name": "Oțelul Galați",
+      "ShortName": "OTL",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=ascotelul.ro&sz=256"
+    },
+    {
+      "ID": 9,
+      "Name": "Universitatea Cluj",
+      "ShortName": "UCL",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=fcucluj.ro&sz=256"
+    },
+    {
+      "ID": 10,
+      "Name": "Petrolul Ploiești",
+      "ShortName": "PET",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=fcpetrolul.ro&sz=256"
+    },
+    {
+      "ID": 11,
+      "Name": "Corvinul Hunedoara",
+      "ShortName": "COR",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=fccorvinul.ro&sz=256"
+    },
+    {
+      "ID": 12,
+      "Name": "FK Csikszereda",
+      "ShortName": "CSK",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=fkcsikszereda.ro&sz=256"
+    },
+    {
+      "ID": 13,
+      "Name": "Dinamo București",
+      "ShortName": "DIN",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=dinamo1948.ro&sz=256"
+    },
+    {
+      "ID": 14,
+      "Name": "FC Argeș",
+      "ShortName": "ARG",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=argesfc.ro&sz=256"
+    },
+    {
+      "ID": 15,
+      "Name": "FC Botoșani",
+      "ShortName": "BOT",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=fcbotosani.ro&sz=256"
+    },
+    {
+      "ID": 16,
+      "Name": "FC Voluntari",
+      "ShortName": "VOL",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=fcvoluntari.ro&sz=256"
+    },
+    {
+      "ID": 17,
+      "Name": "FC Bihor Oradea",
+      "ShortName": "BIH",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=fcbihor.ro&sz=256"
+    },
+    {
+      "ID": 18,
+      "Name": "Steaua București",
+      "ShortName": "STE",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=csasteaua.ro&sz=256"
+    },
+    {
+      "ID": 19,
+      "Name": "Chindia Târgoviște",
+      "ShortName": "CHI",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=chindiatargoviste.ro&sz=256"
+    },
+    {
+      "ID": 20,
+      "Name": "ASA Târgu Mureș",
+      "ShortName": "ASA",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=asatargumures.ro&sz=256"
+    },
+    {
+      "ID": 21,
+      "Name": "Metalul Buzău",
+      "ShortName": "MET",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=metalulbuzau.ro&sz=256"
+    },
+    {
+      "ID": 22,
+      "Name": "CSM Slatina",
+      "ShortName": "SLT",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=csmslatina.ro&sz=256"
+    },
+    {
+      "ID": 23,
+      "Name": "Gloria Bistrița",
+      "ShortName": "GLB",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=gloriabistrita.ro&sz=256"
+    },
+    {
+      "ID": 24,
+      "Name": "ACS FC Bacău",
+      "ShortName": "BAC",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=fcbacau.ro&sz=256"
+    },
+    {
+      "ID": 25,
+      "Name": "Concordia Chiajna",
+      "ShortName": "CON",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=csconcordia.ro&sz=256"
+    },
+    {
+      "ID": 26,
+      "Name": "CSM Reșița",
+      "ShortName": "RES",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=csmsresita.ro&sz=256"
+    },
+    {
+      "ID": 27,
+      "Name": "CS Afumați",
+      "ShortName": "AFU",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=csafumati.ro&sz=256"
+    },
+    {
+      "ID": 28,
+      "Name": "CSC Dumbrăvița",
+      "ShortName": "DUM",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=cscdumbravita.ro&sz=256"
+    },
+    {
+      "ID": 29,
+      "Name": "CSC 1599 Șelimbăr",
+      "ShortName": "SEL",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=csuselimbar.ro&sz=256"
+    },
+    {
+      "ID": 30,
+      "Name": "CS Dinamo București",
+      "ShortName": "CSD",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=csdinamo.eu&sz=256"
+    },
+    {
+      "ID": 31,
+      "Name": "Hermannstadt",
+      "ShortName": "HER",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=fchermannstadt.ro&sz=256"
+    },
+    {
+      "ID": 32,
+      "Name": "Unirea 04 Slobozia",
+      "ShortName": "SLO",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=unireaslobozia.ro&sz=256"
+    },
+    {
+      "ID": 33,
+      "Name": "Metaloglobus București",
+      "ShortName": "MGB",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=metaloglobus.ro&sz=256"
+    },
+    {
+      "ID": 34,
+      "Name": "CSM Cetatea 1932 Suceava",
+      "ShortName": "SUC",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=csmsuceava.ro&sz=256"
+    },
+    {
+      "ID": 35,
+      "Name": "CSL Ștefăneștii de Jos",
+      "ShortName": "STJ",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=stefanestidejos.ro&sz=256"
+    },
+    {
+      "ID": 36,
+      "Name": "SCM Râmnicu Vâlcea",
+      "ShortName": "RMV",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=scmrmvalcea.ro&sz=256"
+    },
+    {
+      "ID": 37,
+      "Name": "Politehnica Timișoara",
+      "ShortName": "POL",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=sspolitehnica.ro&sz=256"
+    },
+    {
+      "ID": 38,
+      "Name": "SC Popești-Leordeni",
+      "ShortName": "POP",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=popestileordeni.ro&sz=256"
+    }
+  ],
+  "LeagueData": [
+    {
+      "ID": 1,
+      "Name": "SuperLiga România",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=superliga.ro&sz=256"
+    },
+    {
+      "ID": 2,
+      "Name": "Liga 2 România",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=frf.ro&sz=256"
+    }
+  ],
+  "CupData": [],
+  "StadiumData": []
