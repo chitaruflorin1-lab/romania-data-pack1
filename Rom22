@@ -1,0 +1,261 @@
+{
+  "PlayerData": [],
+  "ClubData": [
+    {
+      "ID": 1,
+      "Name": "CFR 1907 Cluj",
+      "ShortName": "CFR",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=cfr1907.ro&sz=256"
+    },
+    {
+      "ID": 2,
+      "Name": "FCSB",
+      "ShortName": "FCSB",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=fcsb.ro&sz=256"
+    },
+    {
+      "ID": 3,
+      "Name": "Universitatea Craiova",
+      "ShortName": "UCV",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=ucv1948.ro&sz=256"
+    },
+    {
+      "ID": 4,
+      "Name": "Farul Constanța",
+      "ShortName": "FAR",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=farulconstanta.com&sz=256"
+    },
+    {
+      "ID": 5,
+      "Name": "Rapid București",
+      "ShortName": "RAP",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=fcrapid.ro&sz=256"
+    },
+    {
+      "ID": 6,
+      "Name": "Sepsi OSK",
+      "ShortName": "SEPSI",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=sepsiosk.ro&sz=256"
+    },
+    {
+      "ID": 7,
+      "Name": "FC Voluntari",
+      "ShortName": "VOL",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=fcvoluntari.ro&sz=256"
+    },
+    {
+      "ID": 8,
+      "Name": "Universitatea Cluj",
+      "ShortName": "UCL",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=fcucluj.ro&sz=256"
+    },
+    {
+      "ID": 9,
+      "Name": "Petrolul Ploiești",
+      "ShortName": "PET",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=fcpetrolul.ro&sz=256"
+    },
+    {
+      "ID": 10,
+      "Name": "FC Argeș",
+      "ShortName": "ARG",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=argesfc.ro&sz=256"
+    },
+    {
+      "ID": 11,
+      "Name": "UTA Arad",
+      "ShortName": "UTA",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=uta-arad.ro&sz=256"
+    },
+    {
+      "ID": 12,
+      "Name": "FC Botoșani",
+      "ShortName": "BOT",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=fcbotosani.ro&sz=256"
+    },
+    {
+      "ID": 13,
+      "Name": "Hermannstadt",
+      "ShortName": "HER",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=fchermannstadt.ro&sz=256"
+    },
+    {
+      "ID": 14,
+      "Name": "Chindia Târgoviște",
+      "ShortName": "CHI",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=chindiatargoviste.ro&sz=256"
+    },
+    {
+      "ID": 15,
+      "Name": "CS Mioveni",
+      "ShortName": "MIO",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=csmioveni.ro&sz=256"
+    },
+    {
+      "ID": 16,
+      "Name": "FCU Craiova 1948",
+      "ShortName": "FCU",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=fcucraiova.ro&sz=256"
+    },
+    {
+      "ID": 17,
+      "Name": "Unirea Slobozia",
+      "ShortName": "SLO",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=unireaslobozia.ro&sz=256"
+    },
+    {
+      "ID": 18,
+      "Name": "Dinamo București",
+      "ShortName": "DIN",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=dinamo1948.ro&sz=256"
+    },
+    {
+      "ID": 19,
+      "Name": "Gloria Buzău",
+      "ShortName": "GLB",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=gloriabuzau.ro&sz=256"
+    },
+    {
+      "ID": 20,
+      "Name": "Oțelul Galați",
+      "ShortName": "OTL",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=ascotelul.ro&sz=256"
+    },
+    {
+      "ID": 21,
+      "Name": "CSM Alexandria",
+      "ShortName": "ALEX",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=csmalexandria.ro&sz=256"
+    },
+    {
+      "ID": 22,
+      "Name": "CSC Dumbrăvița",
+      "ShortName": "DUM",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=cscdumbravita.ro&sz=256"
+    },
+    {
+      "ID": 23,
+      "Name": "Minaur Baia Mare",
+      "ShortName": "MIN",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=minaur.ro&sz=256"
+    },
+    {
+      "ID": 24,
+      "Name": "CS Ocna Mureș",
+      "ShortName": "OCN",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=csocnamures.ro&sz=256"
+    }
+  ],
+  "LeagueData": [
+    {
+      "ID": 28,
+      "Name": "Liga 1 România 2022",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=superliga.ro&sz=256"
+    }
+  ],
+  "CupData": [
+    {
+      "ID": 2,
+      "Name": "Cupa României Betano 2022/2023",
+      "ImageURL": "https://www.google.com/s2/favicons?domain=cuparomaniei.frf.ro&sz=256"
+    }
+  ],
+  "StadiumData": [
+    {
+      "ID": 1,
+      "Name": "Stadionul Dr. Constantin Rădulescu"
+    },
+    {
+      "ID": 2,
+      "Name": "Arena Națională"
+    },
+    {
+      "ID": 3,
+      "Name": "Stadionul Ion Oblemenco"
+    },
+    {
+      "ID": 4,
+      "Name": "Stadionul Central Academia Hagi"
+    },
+    {
+      "ID": 5,
+      "Name": "Stadionul Giulești"
+    },
+    {
+      "ID": 6,
+      "Name": "Stadionul Sepsi OSK"
+    },
+    {
+      "ID": 7,
+      "Name": "Stadionul Anghel Iordănescu"
+    },
+    {
+      "ID": 8,
+      "Name": "Cluj Arena"
+    },
+    {
+      "ID": 9,
+      "Name": "Stadionul Ilie Oană"
+    },
+    {
+      "ID": 10,
+      "Name": "Stadionul Nicolae Dobrin"
+    },
+    {
+      "ID": 11,
+      "Name": "Stadionul Francisc von Neuman"
+    },
+    {
+      "ID": 12,
+      "Name": "Stadionul Municipal Botoșani"
+    },
+    {
+      "ID": 13,
+      "Name": "Stadionul Municipal Sibiu"
+    },
+    {
+      "ID": 14,
+      "Name": "Stadionul Ilie Oană"
+    },
+    {
+      "ID": 15,
+      "Name": "Stadionul Orășenesc Mioveni"
+    },
+    {
+      "ID": 16,
+      "Name": "Stadionul Municipal Târgu Jiu"
+    },
+    {
+      "ID": 17,
+      "Name": "Stadionul 1 Mai"
+    },
+    {
+      "ID": 18,
+      "Name": "Stadionul Arcul de Triumf"
+    },
+    {
+      "ID": 19,
+      "Name": "Stadionul Gloria"
+    },
+    {
+      "ID": 20,
+      "Name": "Stadionul Oțelul"
+    },
+    {
+      "ID": 21,
+      "Name": "Stadionul Municipal Alexandria"
+    },
+    {
+      "ID": 22,
+      "Name": "Stadionul Ștefan Dobay"
+    },
+    {
+      "ID": 23,
+      "Name": "Stadionul Viorel Mateianu"
+    },
+    {
+      "ID": 24,
+      "Name": "Stadionul Dragostei"
+    }
+  ]
+}
